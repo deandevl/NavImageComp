@@ -1,0 +1,23 @@
+{
+  "name": "navimagecomp",
+  "version": "1.0.0",
+  "description": "A vue.js component for viewing images",
+  "main": "NavImageComp.vue",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deandevl/NavImageComp.git"
+  },
+  "keywords": [
+    "vue.js",
+    "NavImageComp"
+  ],
+  "author": "Rick Dean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deandevl/NavImageComp/issues"
+  },
+  "homepage": "https://github.com/deandevl/NavImageComp#readme",
+  "dependencies": {
+    "vue": "^2.5.9"
+  }
+}
